@@ -1,0 +1,48 @@
+[18/11/22 09:53:18][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 09:53:18][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 09:55:19][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 09:55:19][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 09:59:20][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 09:59:20][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 10:01:08][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 10:01:08][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 10:01:50][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 10:01:50][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 10:04:17][INFO][advanced.topic.JavaA4-28] -------------JavaA4 Start -------------
+[18/11/22 10:04:17][ERROR][advanced.topic.JavaA4-46] 
+java.lang.NullPointerException
+	at advanced.topic.JavaA4.readFile(JavaA4.java:101)
+	at advanced.topic.JavaA4.main(JavaA4.java:41)
+[18/11/22 10:04:17][INFO][advanced.topic.JavaA4-48] -------------JavaA4 End -------------
+[18/11/22 14:26:16][INFO][advanced.topic.JavaA4-29] -------------JavaA4 Start -------------
+[18/11/22 14:26:16][ERROR][advanced.topic.JavaA4-48] 
+java.lang.NullPointerException
+	at advanced.topic.JavaA4.readFile(JavaA4.java:79)
+	at advanced.topic.JavaA4.main(JavaA4.java:42)
+[18/11/22 14:26:16][INFO][advanced.topic.JavaA4-50] -------------JavaA4 End -------------
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-41] user=root
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-41] password=中文
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-41] url=jdbc:mysql://localhost:3306/TEST
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-41] driver=com.mysql.jdbc.Driver
+[18/11/22 14:35:01][INFO][advanced.topic.JavaNewA4-48] JavaNewA4 End...
+[18/11/22 14:40:12][INFO][advanced.topic.JavaA4-30] -------------JavaA4 Start -------------
+[18/11/22 14:40:12][ERROR][advanced.topic.JavaA4-50] 
+java.lang.NullPointerException
+	at advanced.topic.test.readFile.readFile(readFile.java:34)
+	at advanced.topic.JavaA4.main(JavaA4.java:44)
+[18/11/22 14:40:12][INFO][advanced.topic.JavaA4-52] -------------JavaA4 End -------------
+[18/11/22 14:40:40][INFO][advanced.topic.JavaA4-30] -------------JavaA4 Start -------------
+[18/11/22 14:40:40][INFO][advanced.topic.test.readFile-26] driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/TEST
+user=root
+password=你好abc
+
+[18/11/22 14:40:40][INFO][advanced.topic.JavaA4-52] -------------JavaA4 End -------------
+[18/11/22 15:37:41][INFO][advanced.topic.JavaA4-30] -------------JavaA4 Start -------------
+[18/11/22 15:37:41][INFO][advanced.topic.test.readFile-27] driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/TEST
+user=root
+password=你好abc
+
+[18/11/22 15:37:41][INFO][advanced.topic.JavaA4-52] -------------JavaA4 End -------------

@@ -1,0 +1,96 @@
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-42] user=root
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-42] password=中文
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-42] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-42] driver=com.mysql.jdbc.Driver
+[18/11/23 13:54:18][INFO][advanced.topic.JavaNewA4-49] JavaNewA4 End...
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-42] user=root
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-42] password=中文
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-42] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-42] driver=com.mysql.jdbc.Driver
+[18/11/23 13:54:26][INFO][advanced.topic.JavaNewA4-49] JavaNewA4 End...
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-43] user=root
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-43] password=中文
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-43] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-43] driver=com.mysql.jdbc.Driver
+[18/11/23 15:34:11][INFO][advanced.topic.JavaNewA4-50] JavaNewA4 End...
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-43] user=root
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-43] password=中文
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-43] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-43] driver=com.mysql.jdbc.Driver
+[18/11/23 15:38:16][INFO][advanced.topic.JavaNewA4-50] JavaNewA4 End...
+[18/11/23 15:41:05][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:47:16][INFO][advanced.topic.JavaA4-24] -------------JavaA4 Start -------------
+[18/11/23 15:47:16][INFO][advanced.topic.test.readFile-27] driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/TEST
+user=root
+password=你好abc
+
+[18/11/23 15:47:16][INFO][advanced.topic.JavaA4-46] -------------JavaA4 End -------------
+[18/11/23 15:47:44][INFO][advanced.topic.JavaA4-24] -------------JavaA4 Start -------------
+[18/11/23 15:47:44][INFO][advanced.topic.test.readFile-27] driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/TEST
+user=root
+password=你好abc
+
+[18/11/23 15:47:44][INFO][advanced.topic.JavaA4-46] -------------JavaA4 End -------------
+[18/11/23 15:49:01][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:50:49][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:51:30][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:53:58][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:54:31][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:55:31][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:57:07][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:58:15][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 15:58:15][INFO][advanced.topic.JavaNewA4-38] error
+[18/11/23 15:58:15][ERROR][advanced.topic.JavaNewA4-39] 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:24)
+[18/11/23 15:58:15][INFO][advanced.topic.JavaNewA4-51] 
+[18/11/23 15:58:15][ERROR][advanced.topic.test.WriteFile-29] 系統找不到指定的路徑。
+java.io.IOException: 系統找不到指定的路徑。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1006)
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:21)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:56)
+[18/11/23 15:58:15][ERROR][advanced.topic.test.WriteFile-35] 
+java.lang.NullPointerException
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:33)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:56)
+[18/11/23 15:58:15][INFO][advanced.topic.JavaNewA4-58] JavaNewA4 End...
+[18/11/23 17:00:28][INFO][advanced.topic.JavaNewA4-15] JavaNewA4 Start...
+[18/11/23 17:00:28][INFO][advanced.topic.JavaNewA4-38] error
+[18/11/23 17:00:28][ERROR][advanced.topic.JavaNewA4-39] 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:24)
+[18/11/23 17:00:28][INFO][advanced.topic.JavaNewA4-49] 
+[18/11/23 17:00:28][ERROR][advanced.topic.test.WriteFile-29] 系統找不到指定的路徑。
+java.io.IOException: 系統找不到指定的路徑。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1006)
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:21)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:54)
+[18/11/23 17:00:28][ERROR][advanced.topic.test.WriteFile-35] 
+java.lang.NullPointerException
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:33)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:54)
+[18/11/23 17:00:28][INFO][advanced.topic.JavaNewA4-56] JavaNewA4 End...
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-16] JavaNewA4 Start...
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-52] user=root
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-52] password=中文
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-52] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-52] driver=com.mysql.jdbc.Driver
+[18/11/23 17:49:00][INFO][advanced.topic.JavaNewA4-59] JavaNewA4 End...
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-16] JavaNewA4 Start...
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-57] user=root
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-57] password=中文
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-57] url=jdbc:mysql://localhost:3306/TEST
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-57] driver=com.mysql.jdbc.Driver
+[18/11/23 17:52:23][INFO][advanced.topic.JavaNewA4-64] JavaNewA4 End...
+[18/11/23 17:56:31][INFO][advanced.topic.JavaNewA4-16] JavaNewA4 Start...
+[18/11/23 17:56:31][INFO][advanced.topic.JavaNewA4-70] JavaNewA4 End...
+[18/11/23 17:57:36][INFO][advanced.topic.JavaNewA4-16] JavaNewA4 Start...
+[18/11/23 17:57:36][INFO][advanced.topic.JavaNewA4-71] JavaNewA4 End...

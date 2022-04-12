@@ -1,0 +1,4 @@
+[user=root]
+[password=中文]
+[url=jdbc:mysql://localhost:3306/TEST]
+[driver=com.mysql.jdbc.Driver]

@@ -1,0 +1,26 @@
+[18/11/23 15:58:15][ERROR][advanced.topic.JavaNewA4-39] 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:24)
+[18/11/23 15:58:15][ERROR][advanced.topic.test.WriteFile-29] 系統找不到指定的路徑。
+java.io.IOException: 系統找不到指定的路徑。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1006)
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:21)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:56)
+[18/11/23 15:58:15][ERROR][advanced.topic.test.WriteFile-35] 
+java.lang.NullPointerException
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:33)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:56)
+[18/11/23 17:00:28][ERROR][advanced.topic.JavaNewA4-39] 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:24)
+[18/11/23 17:00:28][ERROR][advanced.topic.test.WriteFile-29] 系統找不到指定的路徑。
+java.io.IOException: 系統找不到指定的路徑。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1006)
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:21)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:54)
+[18/11/23 17:00:28][ERROR][advanced.topic.test.WriteFile-35] 
+java.lang.NullPointerException
+	at advanced.topic.test.WriteFile.writeFile(WriteFile.java:33)
+	at advanced.topic.JavaNewA4.main(JavaNewA4.java:54)

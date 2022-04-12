@@ -1,0 +1,12 @@
+[18/11/22 10:04:17][ERROR][advanced.topic.JavaA4-46] 
+java.lang.NullPointerException
+	at advanced.topic.JavaA4.readFile(JavaA4.java:101)
+	at advanced.topic.JavaA4.main(JavaA4.java:41)
+[18/11/22 14:26:16][ERROR][advanced.topic.JavaA4-48] 
+java.lang.NullPointerException
+	at advanced.topic.JavaA4.readFile(JavaA4.java:79)
+	at advanced.topic.JavaA4.main(JavaA4.java:42)
+[18/11/22 14:40:12][ERROR][advanced.topic.JavaA4-50] 
+java.lang.NullPointerException
+	at advanced.topic.test.readFile.readFile(readFile.java:34)
+	at advanced.topic.JavaA4.main(JavaA4.java:44)
